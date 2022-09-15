@@ -1,4 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David=============================================================================================================================I'm a Front-End Developer Jr.-----------------------------* 🌍  I'm based in Mexico City* ✉️  You can contact me at [davidpa7710@gmail.com](mailto:davidpa7710@gmail.com)* 🧠  I'm learning Backend and Data Science* 🤝  I'm open to collaborating on Frontend proyects and JavaScript* ⚡  I love Formula 1 🏎
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David
+=============================================================================================================================
+
+I'm a Front-End Developer Jr.
+-----------------------------
+
+*   🌍  I'm based in Mexico City
+*   ✉️  You can contact me at [davidpa7710@gmail.com](mailto:davidpa7710@gmail.com)
+*   🧠  I'm learning Backend and Data Science
+*   🤝  I'm open to collaborating on Frontend proyects and JavaScript
+*   ⚡  I love Formula 1 🏎
 
 ### Skills
 
